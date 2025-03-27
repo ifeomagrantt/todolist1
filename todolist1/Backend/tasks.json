@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2025-03-18T17:37:04.959519",
+        "updatedAt": "2025-03-18T17:37:04.959536"
+    },
+    {
+        "id": 2,
+        "description": "Walk  dog",
+        "status": "in-progress",
+        "createdAt": "2025-03-18T18:13:52.058577",
+        "updatedAt": "2025-03-18T18:13:52.058591"
+    },
+    {
+        "id": 3,
+        "description": "Walk cat",
+        "status": "done",
+        "createdAt": "2025-03-18T18:14:14.366503",
+        "updatedAt": "2025-03-18T18:14:14.366516",
+        "update": "01:30 PM 03/20/25"
+    },
+    {
+        "id": 4,
+        "description": "go running",
+        "status": "todo",
+        "createdAt": "2025-03-20T08:23:53.873010",
+        "updatedAt": "2025-03-20T08:23:53.873481"
+    }
+]
